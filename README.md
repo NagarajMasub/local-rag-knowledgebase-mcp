@@ -17,7 +17,7 @@ A fully local RAG-based knowledge base system with an MCP (Model Context Protoco
 
 ```bash
 # Clone the project
-git clone <repository-url>
+git clone https://github.com/NagarajMasub/local-rag-knowledgebase-mcp.git
 cd local-rag-mcp
 
 # Create virtual environment
