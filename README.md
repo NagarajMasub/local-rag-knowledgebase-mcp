@@ -97,3 +97,7 @@ local-rag-mcp/
 - **First Run**: Will download embedding model (`all-MiniLM-L6-v2`)
 - **Storage**: Documents stored in `data/uploaded_docs/`, embeddings in `data/chroma_db/`
 - **Privacy**: Everything runs locally, no data leaves your machine
+
+<img width="1751" height="1071" alt="image" src="https://github.com/user-attachments/assets/a8b0e680-3776-417f-a95b-0b2752287f2f" />
+<img width="617" height="642" alt="image" src="https://github.com/user-attachments/assets/04d528c7-d302-42e7-9ed7-b64423957dda" />
+
